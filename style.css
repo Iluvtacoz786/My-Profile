@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+background-color: deeppink;
+}
+#code{
+margin-left: 100px;
+}
+a{
+    margin: 25px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.Menu{
+list-style:none;
+position:fixed;
+top: 10px;
+right:30px;
+z-index: 10;
+}
+body{
+  scroll-behavior: smooth;
+}
+.Links{
+  float: left;
+  padding:9px;
+  cursor: pointer;
+  font-size:29px;
+  font-family: 'Lobster', cursive;
+  color:#fc03b1 ;
+}
+.Links:hover{
+  font-size:39px ;
+}
